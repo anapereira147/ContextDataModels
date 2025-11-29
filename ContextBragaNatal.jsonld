@@ -1,0 +1,40 @@
+{
+    "@context": {
+        "schema": "https://schema.org/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "roomspecs": "https://doi.org/10.5281/zenodo.17754479",
+        
+        "id": "@id",
+        "type": "@type",
+
+        "Festival": "schema:Festival",
+        "Event": "schema:Event",
+        "Place": "schema:Place",
+        "Organization": "schema:Organization",
+
+        "name": "schema:name",
+        "description": "schema:description",
+        "organizer": "schema:organizer",
+        "startDate": "schema:startDate",
+        "endDate": "schema:endDate",
+        "contributor": "schema:contributor",
+        "url": "schema:url",
+        "image": "schema:image",
+        "eventType": "schema:eventType",
+        "startTime": "schema:startTime",
+        "price": "schema:price",
+        "duration": "schema:duration",
+        "typicalAgeRange": "schema:typicalAgeRange",
+        "maximumAttendeeCapacity": "schema:maximumAttendeeCapacity",
+        "minimumAttendeeCapacity": "roomspecs:minimumAttendeeCapacity",
+        "comment": "rdfs:comment",
+        "superEvent": "schema:superEvent",
+        "attendee": "schema:attendee",
+        "location": "schema:location",
+        "address": "schema:address",
+        "containedInPlace": "schema:containedInPlace",
+        "geo": "schema:geo",
+        "event": "schema:event",
+        "performenIn": "schema:performerIn"
+    }
+}

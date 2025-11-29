@@ -1,0 +1,37 @@
+{
+    "@context": {
+            "ngsi-ld": "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+            "schema": "https://schema.org/",
+            "dbpedia": "http://dbpedia.org/ontology/",
+            "cidoc": "http://www.cidoc-crm.org/cidoc-crm/",
+            "rico": "https://www.ica.org/standards/RiC/ontology#",
+
+            "id": "@id",
+            "type": "@type",
+
+            "Person": "schema:Person",
+            "Sculpture": "schema:Sculpture",
+
+            "name": "schema:name",
+            "birthDate": "schema:birthDate",
+            "deathDate": "schema:deathDate",
+            "description": "schema:description",
+            "jobTitle": "schema:jobTitle",
+            "award": "schema:award",
+            "url": "schema:url",
+            "publishingPrinciples": "schema:publishingPrinciples",
+            "knownFor": "dbpedia:knownFor",
+            "author": "schema:author",
+            "hasAccumulationDate": "rico:hasAccumulationDate",
+            "P51_has_former_or_corrent_owner": "cidoc:P51_has_former_or_current_owner",
+            "additionalType": "schema:additionalType",
+            "material": "schema:material",
+            "dateCreated": "schema:dateCreated",
+            "P44_has_condition": "cidoc:P44_has_condition",
+            "address": "schema:address",
+            "latitude": "schema:latitude",
+            "longitude": "schema:longitude",
+            "usageInfo": "schema:usageInfo",
+            "image": "schema:image"
+    }
+}

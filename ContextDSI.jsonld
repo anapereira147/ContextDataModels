@@ -1,0 +1,45 @@
+{
+    "@context": {
+        "schema": "https://schema.org/",
+        "dbpedia": "https://dbpedia.org/ontology/",
+        "roomspecs": "https://doi.org/10.5281/zenodo.17754479",
+
+        "id": "@id",
+        "type": "@type",
+
+        "Place": "schema:Place",
+        "Room": "schema:Room",
+        "Person": "schema:Person",
+        "Reservation": "schema:Reservation",
+
+        "name": "schema:name",
+        "address": "schema:address",
+        "floorSize": "schema:floorSize",
+        "yearBuilt": "schema:yearBuilt",
+        "floorCount": "dbpedia:floorCount",
+        "containsPlace": "schema:containsPlace",
+        "containedInPlace": "schema:containedInPlace",
+        "floorLevel": "schema:floorLevel",
+        "occupancy": "schema:occupancy",
+        "amenityFeature": "schema:amenityFeature",
+
+        "isHandicappedAcessible": "dbpedia:isHandicappedAcessible",
+        "numberOfProjectors": "roomspecs:numberOfProjectors",
+        "numberOfProjectionScreens": "roomspecs:numberOfProjectionScreens",
+        "numberOfWhiteboards": "roomspecs:numberOfWhiteboards",
+        "numberOfSingleDesks": "roomspecs:numberOfSingleDesks",
+        "numberOfDoubleDesks": "roomspecs:numberOfDoubleDesks",
+        "numberOfChairs": "roomspecs:numberOfChairs",
+        "numberOfInteractiveScreens": "roomspecs:numberOfInteractiveScreens",
+        "numberOfComputers": "roomspecs:numberOfComputers",
+        
+        "description": "schema:description",
+        "startDate": "schema:startDate",
+        "endDate": "schema:endDate",
+        "startTime": "schema:startTime",
+        "endTime": "schema:endTime",
+        "underName": "schema:underName",
+        "email": "schema:email",
+        "telephone": "schema:telephone"
+    }
+}
