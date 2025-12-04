@@ -35,6 +35,6 @@
         "containsPlace": "schema:containsPlace",
         "geo": "schema:geo",
         "event": "schema:event",
-        "performenIn": "schema:performerIn"
+        "performerIn": "schema:performerIn"
     }
 }
