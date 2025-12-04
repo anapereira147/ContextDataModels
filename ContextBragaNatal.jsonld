@@ -2,7 +2,7 @@
     "@context": {
         "schema": "https://schema.org/",
         "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-        "roomspecs": "https://doi.org/10.5281/zenodo.17754479",
+        "roomspecs": "https://doi.org/10.34622/datarepositorium/IAILEP#",
         
         "id": "@id",
         "type": "@type",
@@ -32,7 +32,7 @@
         "attendee": "schema:attendee",
         "location": "schema:location",
         "address": "schema:address",
-        "containedInPlace": "schema:containedInPlace",
+        "containsPlace": "schema:containsPlace",
         "geo": "schema:geo",
         "event": "schema:event",
         "performenIn": "schema:performerIn"

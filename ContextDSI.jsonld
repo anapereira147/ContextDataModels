@@ -2,7 +2,7 @@
     "@context": {
         "schema": "https://schema.org/",
         "dbpedia": "https://dbpedia.org/ontology/",
-        "roomspecs": "https://doi.org/10.5281/zenodo.17754479",
+        "roomspecs": "https://doi.org/10.34622/datarepositorium/IAILEP#",
 
         "id": "@id",
         "type": "@type",
@@ -39,6 +39,7 @@
         "startTime": "schema:startTime",
         "endTime": "schema:endTime",
         "underName": "schema:underName",
+        "reservationFor": "schema:reservationFor",
         "email": "schema:email",
         "telephone": "schema:telephone"
     }
