@@ -1,6 +1,5 @@
 {
     "@context": {
-            "ngsi-ld": "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
             "schema": "https://schema.org/",
             "dbpedia": "http://dbpedia.org/ontology/",
             "cidoc": "http://www.cidoc-crm.org/cidoc-crm/",
