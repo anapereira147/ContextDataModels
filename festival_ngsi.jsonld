@@ -1,0 +1,54 @@
+[
+  {
+    "id": "urn:ngsi-ld:Festival:1",
+    "type": "Festival",
+    "name": {
+      "type": "Property",
+      "value": "Braga é Natal"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Em dezembro, Braga transforma-se num cenário mágico, proporcionando experiências culturais inesquecíveis para todas as idades. A cidade é palco de espetáculos variados, como teatro, música, cinema, novo circo, magia, dança, malabarismo, coros e cânticos de Natal, enchendo as ruas de vida."
+    },
+    "organizer": {
+      "type": "Property",
+      "value": "Município de Braga"
+    },
+    "startDate": {
+      "type": "Property",
+      "value": "2024-12-01"
+    },
+    "endDate": {
+      "type": "Property",
+      "value": "2025-01-12"
+    },
+    "contributor": {
+      "type": "Property",
+      "value": [
+        "AEB - ASSOCIAÇÃO EMPRESARIAL DE BRAGA",
+        "AGERE",
+        "BIBLIOTECA LÚCIO CRAVEIRO DA SILVA BRAVAL",
+        "CTT",
+        "FAZ CULTURA",
+        "INVEST BRAGA",
+        "TUB"
+      ]
+    },
+    "url": {
+      "type": "Property",
+      "value": "https://braganatal.cm-braga.pt/"
+    },
+    "image": {
+      "type": "Property",
+      "value": [
+        "image1",
+        "image2",
+        "image75"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  }
+]

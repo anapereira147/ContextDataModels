@@ -1,0 +1,51 @@
+[
+  {
+    "id": "urn:ngsi-ld:Room:141",
+    "type": "Room",
+    "name": {
+      "type": "Property",
+      "value": "LAP1 - Laboratórios pedagógico 1"
+    },
+    "floorLevel": {
+      "type": "Property",
+      "value": 1
+    },
+    "floorSize": {
+      "type": "Property",
+      "value": 87.44
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": 46
+    },
+    "amenityFeature": {
+      "type": "Property",
+      "value": "Laboratório pedagógico"
+    },
+    "isHandicappedAcessible": {
+      "type": "Property",
+      "value": true
+    },
+    "numberOfProjectors": {
+      "type": "Property",
+      "value": 1
+    },
+    "numberOfProjectionScreens": {
+      "type": "Property",
+      "value": 1
+    },
+    "numberOfComputers": {
+      "type": "Property",
+      "value": 16
+    },
+    "containedInPlace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Building:11",
+      "objectType": "Building"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextDSI.jsonld"
+    ]
+  }
+]

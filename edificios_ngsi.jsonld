@@ -1,0 +1,45 @@
+[
+  {
+    "id": "urn:ngsi-ld:Building:11",
+    "type": "Building",
+    "name": {
+      "type": "Property",
+      "value": "Escola de Engenharia da Universidade do Minho (EEUM)"
+    },
+    "address": {
+      "type": "Property",
+      "value": "Universidade do Minho, Campus de Azurém, 4804-533 Guimarães"
+    },
+    "floorSize": {
+      "type": "Property",
+      "value": 9249.0
+    },
+    "yearBuilt": {
+      "type": "Property",
+      "value": 1975
+    },
+    "floorCount": {
+      "type": "Property",
+      "value": 3
+    },
+    "containsPlace": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Room:LAP1",
+        "urn:ngsi-ld:Room:LAP2",
+        "urn:ngsi-ld:Room:LAP3",
+        "urn:ngsi-ld:Room:LAP4",
+        "urn:ngsi-ld:Room:LAP5",
+        "urn:ngsi-ld:Room:LID1",
+        "urn:ngsi-ld:Room:LID2",
+        "urn:ngsi-ld:Room:LID3",
+        "urn:ngsi-ld:Room:LID4"
+      ],
+      "objectType": "Room"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextDSI.jsonld"
+    ]
+  }
+]

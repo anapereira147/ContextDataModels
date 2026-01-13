@@ -1,0 +1,40 @@
+[
+  {
+    "id": "urn:ngsi-ld:Reservation:1",
+    "type": "Reservation",
+    "startDate": {
+      "type": "Property",
+      "value": "2025-06-01"
+    },
+    "endDate": {
+      "type": "Property",
+      "value": "2025-06-01"
+    },
+    "startTime": {
+      "type": "Property",
+      "value": "09:00:00"
+    },
+    "endTime": {
+      "type": "Property",
+      "value": "11:00:00"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Reunião de Dissertação"
+    },
+    "underName": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Person:1",
+      "objectType": "Person"
+    },
+    "reservationFor": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Room:141",
+      "objectType": "Room"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextDSI.jsonld"
+    ]
+  }
+]

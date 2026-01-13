@@ -1,0 +1,14 @@
+[
+  {
+    "id": "urn:ngsi-ld:Person:PG53629",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "Ana Pereira"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextDSI.jsonld"
+    ]
+  }
+]

@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "urn:ngsi-ld:Person:1",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "ANTÓNIO CARLOS VILA CHÃ ESTEVES  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:27"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:2",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_de_Azevedo_(escultor)"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "ANTÓNIO DE AZEVEDO  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1889-12-11"
+    },
+    "deathDate": {
+      "type": "Property",
+      "value": "1968-04-18"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Fixou-se em Guimarães em 1931 e aí viveu nas décadas de 1930, 40, 50 e 60, tendo acompanhado as transformações da cidade. Viveu os acontecimentos políticos e culturais e marcou a vida da cidade com a sua Realizador de cinema, ceramista, ilustrador e autor de banda desenhada, Arlindo Terra Fagundes nasceu a 3 de julho de 1945, em Ovar.participação cívica e artística. Foi diretor da Escola Industrial e Comercial de Guimarães, hoje Escola Secundária Francisco de Holanda, durante 27 anos. Animador da I Exposição de Humoristas e Modernistas (Porto, 1915), António de Azevedo foi um discreto mas \"sensível modelador de bustos\"."
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Fauno",
+        "busto de Martins Sarmento",
+        "monumento e alto-relevo de Alberto Sampaio"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:24",
+        "urn:ngsi-ld:Sculpture:26"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor",
+        "Professor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:3",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.infopedia.pt/apoio/artigos/$arlindo-fagundes"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "ARLINDO FAGUNDES  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1945-06-03"
+    },
+    "description": {
+      "type": "Property",
+      "value": "O polivalente artista Arlindo Terra Fagundes, nascido em 3 de julho de 1945 em Ovar, é reconhecido por suas habilidades como realizador de cinema, ceramista, ilustrador e autor de banda desenhada. Sua formação inclui passagens pela Sociedade Nacional de Belas-Artes e pela Escola Superior de Belas-Artes de Lisboa, além do Conservatoire Libre de Cinéma Français, onde se diplomou como realizador de cinema em 1973 durante seu exílio na França. Após seu retorno a Portugal em 1975, destacou-se como ceramista, criando uma galeria de bonecos distintos e participando em várias feiras de artesanato pelo país. Sua contribuição na cerâmica foi reconhecida com o 1.º Grande Prémio de Design Artesanal da Bienal de Arte de Vila Nova de Cerveira em 1987. Além disso, sua ilustração é marcada pela colaboração na Coleção \"Uma Aventura\" e na Coleção \"Viagens no Tempo\", entre outros trabalhos, alcançando grande sucesso. Como autor de banda desenhada, destacou-se com a série de aventuras de Pitanga, caracterizada por seu estilo narrativo único e humor peculiar. Suas influências cinematográficas são evidentes em seu trabalho. Fagundes também é reconhecido por suas exposições de pintura em diversas localidades."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "1.º Grande Prémio de Design Artesanal da Bienal de Arte de Vila Nova de Cerveira (1987)",
+        "Troféu \"Zé Pacóvio e Grilinho\" para Melhor Argumento no Festival da Amadora (2003)"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Manual Prático de Introdução à Cerâmica",
+        "Coleção \"Uma Aventura\"",
+        "Coleção \"Viagens no Tempo\"",
+        "La Chavalita",
+        "A Rapariga do Poço da Morte"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:32"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "cineasta",
+        "ilustrador",
+        "ceramista",
+        "autor de BD"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:4",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "AUGUSTO COSTA  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:29"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:5",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.aurelianoaguiar.com/"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "AURELIANO AGUIAR  "
+    },
+    "description": {
+      "type": "Property",
+      "value": "Natural de Coimbra, o escultor Aureliano Aguiar tem exposto por todo o país e na Alemanha. Tem várias obras em espaço públicos. Tem sido muito referida a escultura de homenagem ao bombeiro, em Almodóvar. Em 2008, foi-lhe atribuído o “PRÉMIO UTOPIA DE ARTE FANTÁSTICA”, na categoria “ESCULTURA”, com a obra “ARCANJO”, HOJE ADQUIRIDA PELA Câmara Municipal de Sesimbra.Em Odemira está o “Monumento à Árvore”, obra com forte carga de significado, conotada «topológica e simbolicamente com a planície alentejana, como sublinhou José Guilherme Abreu»."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "Prémio Utopia de Arte Fantástica (2008)"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Arcanjo",
+        "Monumento à Árvore"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:43",
+        "urn:ngsi-ld:Sculpture:44"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:6",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "CÉSAR FERNANDES"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:2"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:7",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://urv.academia.edu/EmmaZahoneroMoreno/CurriculumVitae"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "EMMA ZAHONERO MORENO"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Doutora em Arqueologia pela Universidade Rovira i Virgili (URV) e Licenciada em Belas Artes pela Universidad Complutense de Madrid (UCM). Tese: \"Os procedimentos pictóricos na época helenística e romana. Um exemplo de museografia didática"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:35"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Arqueóloga"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:8",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.publico.pt/2008/04/20/jornal/19272008--conego-melo--no-fim-apaziguador-257879"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "FERNANDO JORGE  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:42"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:9",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.cm-sernancelhe.pt/index.php/xico-lucena.html"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "FRANCISCO LUCENA  "
+    },
+    "description": {
+      "type": "Property",
+      "value": "Nasceu em Olsberg – Alemanha Ocidental, em 1966. Em 1983, começou a esculpir em granito, que combina frequentemente com ferro, madeira e outros materiais. Participou em várias exposições coletivas e certames internacionais de escultura em Portugal, Espanha, Luxemburgo, Suíça e Noruega, e realizou diversas exposições individuais, as últimas das quais: Escultura Urbana – Loures; Salão Internacional de Artes Plásticas - S. João da Madeira; Arte no Morrazo - XV Coletiva de Pintura e Escultura – Cangas – Espanha; Exposição coletiva – Stavanger, Noruega; Galeria do Chiado – Lisboa; Galeria “Rectroverso” – Luxemburgo; Exposição “Conexão entre povos” – Centro de Cultura e Congressos ; Galeria da Biblioteca Municipal Macedo Pinto – Tabuaço; Exposição Itinerante Individual de Escultura Urbana – Maia, Lamego, Meda, Celorico, Universidade de Aveiro, Arouca, Penafiel; Ordem dos Médicos – Porto."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "1º Prémio de Escultura no XII Certame (2007)"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Escultura Urbana",
+        "Salão Internacional de Artes Plásticas",
+        "Arte no Morrazo",
+        "Exposição colectiva",
+        "Galeria “Rectroverso”",
+        "Exposição “Conexão entre povos”"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:40"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:10",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "GERARDO ESTEVES  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:38"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:11",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://noticias.up.pt/helder-de-carvalho-vai-por-nos-a-sombra-do-que-nao-queremos-ver/"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "HÉLDER CARVALHO"
+    },
+    "description": {
+      "type": "Property",
+      "value": "O artista formou-se em Artes Plásticas na Faculdade de Belas Artes da Universidade do Porto (FBAUP), onde teve influência de renomados escultores, pintores, críticos de arte e historiadores. Em 2005, completou o mestrado em \"Art Craft and Design\" pela Universidade de Roehampton, em Londres, em parceria com a Universidade do Minho. Atualmente, dedica-se exclusivamente à prática das artes plásticas, com foco na escultura. Ao longo de sua carreira, participou de várias exposições importantes, incluindo a Bienal de Escultura e Desenho das Caldas da Rainha, Cooperativa \"Árvore\" no Porto, Fundação Engenheiro António de Almeida no Porto, Galeria \"Porto Oriental\", Museu Municipal de Arte Moderna Abel Manta em Gouveia e a Bienal de Arte Contemporânea de Trás os Montes em Macedo de Cavaleiros. Recentemente, apresentou a exposição \"Espessa Escuridão\" na Estação de Metro de São Bento, no Porto, em 2022. Além disso, é autor de várias obras públicas notáveis em todo o país, incluindo bustos de figuras proeminentes como António de Almeida, Corino de Andrade, a Estátua de Abel Salazar, o Busto de Edgar Cardoso e a Estátua de Rocha Peixoto."
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "busto de António de Almeida",
+        "busto de Corino de Andrade",
+        "Estátua de Abel Salazar",
+        "Busto de Edgar Cardoso",
+        "Estátua de Rocha Peixoto"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:38",
+        "urn:ngsi-ld:Sculpture:46"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:12",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.isaquepinheiro.com/"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "ISAQUE  PINHEIRO"
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1972"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:10"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:13",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://independent.academia.edu/Jes%C3%BAsMendiolaPuig"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "JESÚS MENDIOLA PUIG "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:35"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Arquiteto"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:14",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "http://www.construcaomagazine.pt/autores/joao-rapagao/"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "JOÃO RAPAGÃO"
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1963"
+    },
+    "description": {
+      "type": "Property",
+      "value": "João Rapagão nasceu em 1963. Concluiu sua licenciatura em Arquitetura na Faculdade de Arquitetura da Universidade Técnica de Lisboa em 1988 e o Programa de Doutoramento em Arquitetura Moderna e Restauração na Universidade de Valladolid em 1992. Desenvolveu sua dissertação de doutoramento na mesma universidade. Foi bolseiro da Junta Nacional de Investigação Científica e Tecnológica em 1996 e da Fundação Calouste Gulbenkian em 1994. Desde 1997, é Professor Auxiliar Convidado na Faculdade de Arquitetura e Artes da Universidade Lusíada, no Porto, e entre 2002 e 2008 lecionou no Departamento Autónomo de Arquitetura da Universidade do Minho. Rapagão ocupou cargos de presidência, incluindo o Conselho Regional de Admissão da Ordem dos Arquitectos no triénio 1999/2001 e o Conselho Diretivo Regional do Norte da Associação dos Arquitectos Portugueses e Ordem dos Arquitectos no triénio 1996/1998. Ele também atuou como curador do Laboratório Criativo do Espaço, associado ao Paredes Pólo de Design de Mobiliário. Além disso, realizou estudos e projetos de arquitetura, com ênfase na valorização e reabilitação de monumentos."
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:2"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Arquiteto",
+        "Professor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:15",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://galardoesanossaterra.direnor.pt/nomeados/edicao/25/4832"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "JORGE ULISSES  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1940"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Nasceu em 1940 no concelho de Mangualde. Concluiu o Curso Superior de Escultura, na Faculdade de Belas Artes do Porto, tendo sido Bolseiro da Fundação Calouste Gulbenkian. Em 1966 veio para Braga lecionar no Liceu Sá de Miranda e por cá ficou, nesta cidade que assume como sua, onde tem desenvolvido grande parte do seu trabalho artístico. Do seu brilhante percurso destacam-se as seguintes exposições individuais: Casa-Museu Nogueira da Silva, Braga (1983); Galeria Woodlot, Sheboygan, USA (1983); Galeria Sargadelos, Barcelona (1987); \"As frágeis Naturezas\". Cooperativa Árvore, Porto (1989); Galeria E. G., Porto (1992); Casa dos Crivos, Braga (2010); 20 \"Andante Tranquilo\", Museu da Escola Secundária Sá de Miranda. A nível coletivo participou, também, em inúmeros projetos, nomeadamente: Exposição Inaugural Cooperativa Árvore, Porto (1963); Exposição Internacional de Arte da Medalha, Cracóvia, Polónia (1975); Centenário da E.S.B.A.P. Porto (1980);\"O papel como suporte\", Sociedade Nacional de Belas Artes, Lisboa (1982); III Exposição Internacional de Arte, Fundação Calouste Gulbenkian, Lisboa (1986); Antologia do Desenho Séc. XX. Cooperativa Árvore, Porto (1987); executou a Estátua do Papa João XXI (após vencer Concurso Público), átrio da Faculdade de Filosofia de Braga (1994). Executou igualmente os Bustos de Maria Ondina Braga e Mestre José Veiga, na Avenida Central Braga."
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Casa-Museu Nogueira da Silva (1983)",
+        "Galeria Woodlot (1983)",
+        "Galeria Sargadelos (1987)",
+        "\"As frágeis Naturezas\"(1989)",
+        "Estátua do Papa João XXI",
+        "Bustos de Maria Ondina Braga e Mestre José Veiga"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:33",
+        "urn:ngsi-ld:Sculpture:41"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:16",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "JOSÉ RODRIGUES  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:2"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:17",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.julianopie.com/"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "JULIAN OPIE "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1958"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:53"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Artista Visual"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:18",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://pt.wikipedia.org/wiki/Leopoldo_de_Almeida"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "LEOPOLDO DE ALMEIDA  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1898-10-18"
+    },
+    "deathDate": {
+      "type": "Property",
+      "value": "1975-04-28"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Leopoldo Neves de Almeida (Lisboa, 18 de outubro de 1898 – 28 de abril de 1975), foi um escultor e professor português. Pertence à segunda geração de artistas modernistas portugueses. Ao longo de mais de meio século de intensa atividade, Leopoldo de Almeida tornou-se numa figura marcante da escultura portuguesa do século XX e, particularmente, uma das melhores expressões da estatuária oficial modernizante implementada pelo Estado Novo. Foi autor de uma obra diversificada onde fundiu um \"academismo de definição clássica\" com traços renovadores modernizantes. Esculpiu e modelou retratos, figuras da história, esculturas de temática religiosa, etc., tendo realizado importantes encomendas para espaços públicos de onde podem destacar-se ainda as estátuas de Castilho e Oliveira Martins, Avenida da Liberdade, Lisboa; Ramalho Ortigão, Porto; Justiça, Palácio da Justiça do Porto; D. Afonso Henriques e D. João I, Câmara Municipal de Lisboa; estátua equestre de D. Nuno Álvares Pereira, 1961 (colocada na Batalha em 1968); estátua equestre de D. João I, 1970, Praça da Figueira, Lisboa; Guerra Junqueiro, 1970, Porto; etc."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "Prémio Rocha Cabral (1929)",
+        "Medalha de Honra da SNBA (1940)",
+        "Prémio Soares dos Reis do SPN (1940)",
+        "Medalha de Benemerência da Cruz Vermelha Portuguesa (1973)",
+        "Comendador da Ordem Militar de Sant'Iago da Espada (1941",
+        "elevado a Grande-Oficial em 1970)",
+        "Oficial da Ordem da Instrução Pública (1956",
+        "elevado a Comendador em 1957)"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Fauno (1927",
+        "bronze; col. Museu do Chiado)",
+        "Monumento ao Marquês de Pombal",
+        "Lisboa (1934)",
+        "Monumento António José de Almeida",
+        "Lisboa (1937)",
+        "Baixos-relevos no Cineteatro Éden",
+        "Lisboa (c. 1934)",
+        "Estátua do Marechal Carmona (Feira Mundial de Nova Iorque",
+        "1939-40)",
+        "Estátua de Oliveira Salazar",
+        "Santa Comba Dão (1939)",
+        "Prisão de Gungunhana",
+        "para o Monumento a Mouzinho de Albuquerque (Lourenço Marques",
+        "atual Maputo",
+        "1940)",
+        "Soberania e Padrão dos Descobrimentos",
+        "Exposição do Mundo Português",
+        "Lisboa (1940)",
+        "Estátua equestre de D. Nuno Álvares Pereira"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:18"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:19",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://cm-feira.pt/noticias/-/noticias/NoticiasListagemPortlet_INSTANCE_lJ34mnXDbbBj/detail/2056902"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "MIGUEL NEVES OLIVEIRA  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1980"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:51"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:20",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "MOISÉS"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:11",
+        "urn:ngsi-ld:Sculpture:12"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:21",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://pt.wikipedia.org/wiki/Pedro_Cabrita_Reis"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "PEDRO CABRITA REIS "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1956-09-05"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Pedro Cabrita Reis, nascido em Lisboa em 1956, é um dos principais artistas plásticos da sua geração em Portugal, reconhecido internacionalmente. Sua obra abrange diversos meios, como pintura, escultura, fotografia e desenho. Ele estudou na Faculdade de Belas Artes da Universidade de Lisboa e teve sua primeira exposição individual em 1981 na Sociedade Nacional de Belas Artes. Desde então, participou de importantes exposições internacionais, como a Documenta IX e XIV em Kassel, além de várias edições da Bienal de Veneza. Suas obras estão presentes em coleções de museus renomados como a Tate Modern, Centre Pompidou e MoMA PS1. Pedro Cabrita Reis também é conhecido por suas obras de arte pública, como \"Central Tejo\" em Lisboa e \"Palácio\" no Porto. Em 2022, foi convidado pelo Museu do Louvre para apresentar a obra \"Les Trois Grâces\" no Jardim das Tulherias, marcando a inauguração da Temporada Cruzada Portugal-França."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "Grande-Oficial da Ordem do Infante D. Henrique (2023)"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "\"Central Tejo\"",
+        "\"Palácio\"",
+        "\"Da Cor das Flores\"",
+        "\"A Linha do Mar\"",
+        "\"Castelo\"",
+        "\"Neptuno\"",
+        "\"Les Trois Grâces\"",
+        "\"Field\""
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:1"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Artista",
+        "Escultor",
+        "pintor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:22",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "PEDRO NOGUEIRA  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:34"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:23",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://pt.wikipedia.org/wiki/Rog%C3%A9rio_de_Azevedo"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "ROGÉRIO AZEVEDO  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1989-06-25"
+    },
+    "deathDate": {
+      "type": "Property",
+      "value": "1983-01-09"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Rogério dos Santos de Azevedo, nascido em 25 de junho de 1898 em Porto, foi um destacado arquiteto português que exerceu sua profissão durante a primeira metade do século XX. Reconhecido como um dos pioneiros do modernismo na arquitetura portuguesa, sua carreira foi marcada pela busca pela atualização estética e funcional, embora parte de sua obra tenha sido influenciada pelas tendências tradicionalistas do Estado Novo. Ao longo de sua vida, além de projetar edifícios emblemáticos como a garagem do jornal O Comércio do Porto, também desempenhou papéis importantes como professor e diretor de instituições ligadas à arquitetura. Ele foi eleito vereador da Câmara Municipal do Porto e integrou a Comissão de Estética da mesma cidade, além de dirigir a secção do Porto da Direcção-Geral dos Edifícios e Monumentos Nacionais. Entre seus projetos notáveis estão o Edifício dos Correios em Viana do Castelo, as Escolas Primárias do Norte (Plano dos Centenários), o Edifício de Garagem do Jornal O Comércio do Porto, entre outros."
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Edifício dos Correios (Viana do Castelo)",
+        "Edifício de Garagem do Jornal O Comércio do Porto",
+        "Escolas Primárias do Norte",
+        "Tribunal de Viana do Castelo",
+        "Pousada de S. Gonçalo (Marão)",
+        "Pousada de Santo António de Serém (Águeda)",
+        "Pousada de S. Lourenço (Serra da Estrela)"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:21"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Arquiteto",
+        "Professor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:24",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "ROMAIN BARD "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:14"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:25",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "http://ww.cm-pvarzim.pt/biblioteca/index.php?op=event&id=1514&cat=activ"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "RUI ANAHORY  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1946"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Rui Anahory, nascido em 1946 em Grijó, Vila Nova de Gaia, é um renomado artista português. Graduado em Artes Plásticas pela ESBAP em 1979, ele também atuou como professor de ensino preparatório, secundário e profissional por muitos anos. Co-fundador da Companhia de Teatro de Braga nos anos 80, Anahory possui uma extensa lista de exposições individuais e coletivas em Portugal e no exterior, além de ter obras em diversas coleções e espaços públicos. Suas esculturas em materiais diversos como pedra, bronze, madeira e cerâmica são reconhecidas, assim como seu trabalho em pintura. Anahory também participou de simpósios de escultura, contribuindo para eventos internacionais como o Simpósio Internacional de Escultura em Pedra de Évora e o Simpósio de Escultura em Granito e Ferro da Póvoa de Varzim. Além disso, suas obras podem ser encontradas em espaços públicos como os jardins do Palácio de Cristal no Porto, o Monumento às Gentes da Póvoa de Varzim e o Monumento ao General Silveira em Chaves. Sua contribuição para a arte portuguesa lhe rendeu reconhecimento, incluindo prêmios como o de escultura de Ar Livre na Amadora nos anos 80."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "Prémio de escultura de Ar Livre"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "\"Viagens\"",
+        "\"Monumento às Gentes da Póvoa de Varzim\"",
+        "\"Monumento a S. Pedro\"",
+        "\"Esculturas da exposição Formulações Mínimas\"",
+        "\"Atmosfera\"",
+        "\"Monumento de Homenagem à Pesca da Arte Xávega\"",
+        "\"Monumento ao Agricultor Bragançano (Chega de Bois)\"",
+        "\"Escultura eólica em ferro e aço\"",
+        "\"Totem\"",
+        "\"Portas do Céu\" (Janua Coeli)"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:25",
+        "urn:ngsi-ld:Sculpture:28"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Artista Plástico"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:26",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://www.ruterosas.com/pt/"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "RUTE ROSAS  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1972"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:52"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Artista Visual",
+        "Professora",
+        "Escultora"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:27",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://pt.wikipedia.org/wiki/Salvador_Barata_Feyo"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "SALVADOR BARATA FEYO "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1899-12-05"
+    },
+    "deathDate": {
+      "type": "Property",
+      "value": "1990-01-31"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Salvador Carvão da Silva de Eça Barata Feyo (1899-1990) foi um renomado escultor e professor português, destacado como figura central da segunda geração de escultores modernistas do país. Sua vasta e diversificada obra abrange estatuária oficial, retratos, esculturas de temática religiosa, medalhística e desenho. Nasceu em Moçâmedes, África Ocidental Portuguesa, e formou-se em escultura na Escola de Belas-Artes de Lisboa. Além de participar em diversas exposições coletivas, Feyo venceu prêmios como a Segunda Medalha na SNBA em 1930, o Prêmio Mestre Manuel Pereira em 1945 e 1951, o Prêmio Nacional de Artes em 1960, entre outros. Suas obras incluem o Monumento Almeida Garrett, o Busto de José Tagarro, a escultura Primeiro Cânone, Cristo na Cruz na Igreja de Nossa Senhora do Rosário de Fátima, entre outras. Feyo também foi professor na Escola de Belas Artes do Porto e diretor do Museu Nacional de Soares dos Reis. Ele é representado em várias coleções públicas e privadas, e o Museu Barata Feyo, nas Caldas da Rainha, abriga um importante acervo de suas obras."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "Segunda Medalha na SNBA (1930)",
+        "Prêmio Mestre Manuel Pereira (1945 e 1951)",
+        "Prêmio Nacional de Artes (1960)"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Monumento Almeida Garrett",
+        "Busto de José Tagarro",
+        "Escultura Primeiro Cânone",
+        "Cristo na Cruz na Igreja de Nossa Senhora do Rosário de Fátima",
+        "Rapariga da Nazaré",
+        "Estátua de Bartolomeu Dias",
+        "Estátua de Francisco Sanches",
+        "Monumento ao Infante D. Henrique",
+        "Estátua equestre de D. João VI",
+        "Estátua equestre de Vímara Peres",
+        "Rosalía de Castro",
+        "As Fontes do Direito",
+        "Doutrina",
+        "Esculturas ornamentais nos pilares da Ponte da Arrábida",
+        "Escultura de \"S. João de Brito\"",
+        "Busto de José Moreira da Silva",
+        "Estátua do Eng. António de Almeida",
+        "Estátua do Jurisconsulto João Mendes",
+        "Busto de Ruben A.",
+        "O Cristo Magrinho ou Cristo da FNAT",
+        "Vizela Romana"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:19",
+        "urn:ngsi-ld:Sculpture:22",
+        "urn:ngsi-ld:Sculpture:50"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor",
+        "Professor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:28",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://pt.wikipedia.org/wiki/Jos%C3%A9_Joaquim_Teixeira_Lopes"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "TEIXEIRA LOPES (PAI) "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1837-12-25"
+    },
+    "deathDate": {
+      "type": "Property",
+      "value": "1918-04-16"
+    },
+    "description": {
+      "type": "Property",
+      "value": "José Joaquim Teixeira Lopes, nascido em 24 de fevereiro de 1837 em São Mamede de Ribatua, Alijó, foi um destacado escultor português do período do Romantismo. Iniciou sua carreira como aprendiz de escultura na oficina do mestre Manuel de Fonseca Pinto no Porto. Mais tarde, tornou-se aluno na Academia Portuense de Belas Artes, onde estudou com mestres como João Correia e Francisco José Resende. Destacou-se por suas esculturas em mármore e cerâmica, abordando temas religiosos, históricos e alegóricos. Algumas de suas obras notáveis incluem a estátua de D. Pedro V na Praça da Batalha do Porto, o \"Baptismo de Cristo\" na Sé Catedral do Porto, as \"Alminhas da Ponte\" em homenagem às vítimas da tragédia da Ponte das Barcas na Ribeira do Porto, e \"A Caridade\" no Cemitério do Prado do Repouso. Também produziu bustos em mármore e estátuas alegóricas, além de trabalhos em cerâmica e azulejos. Teixeira Lopes Pai, como era conhecido para distingui-lo de seu filho, foi uma figura influente no cenário artístico português, tanto por sua produção artística quanto por sua atuação como professor. Fundou sua própria escola de desenho e modelação, contribuindo para a formação de novos artistas. Quanto a premiações, destaca-se sua medalha conquistada em uma exposição com um busto em gesso, além de ter sido nomeado Cavaleiro da Ordem de Cristo. No entanto, não foram fornecidos detalhes específicos sobre prêmios adicionais ou reconhecimentos recebidos por suas obras."
+    },
+    "award": {
+      "type": "Property",
+      "value": [
+        "Cavaleiro da Ordem de Cristo"
+      ]
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "As estátuas notáveis de José Joaquim Teixeira Lopes incluem a de D. Pedro V na Praça da Batalha do Porto",
+        "o \"Baptismo de Cristo\" na Sé Catedral do Porto",
+        "as \"Alminhas da Ponte\" em homenagem às vítimas da tragédia da Ponte das Barcas na Ribeira do Porto",
+        "o \"Conde de Ferreira\" no Hospital Conde de Ferreira",
+        "\"Nossa Senhora do Rosário\" na Igreja de Cedofeita",
+        "bustos em mármore para o Hospital da Santa Casa da Misericórdia e \"A Caridade\" (grupo composto em mármore) no Cemitério do Prado do Repouso"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:20"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:29",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "VICTOR RIBEIRO  "
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:31"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:30",
+    "type": "Person",
+    "url": {
+      "type": "Property",
+      "value": [
+        "https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=antigos%20estudantes%20ilustres%20-%20zeferino%20couto"
+      ]
+    },
+    "name": {
+      "type": "Property",
+      "value": "ZEFERINO COUTO  "
+    },
+    "birthDate": {
+      "type": "Property",
+      "value": "1890"
+    },
+    "deathDate": {
+      "type": "Property",
+      "value": "1982"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Zeferino dos Santos Couto nasceu em 13 de junho de 1890, na freguesia do Olival, concelho de Vila Nova de Gaia, filho de Manuel Santos Couto e Maria do Couto. Estudou na Academia Portuense de Belas Artes, onde se formou em Escultura em 1911. Durante sua carreira, trabalhou em diversas áreas artísticas, incluindo escultura, arquitetura e desenho. Participou ativamente na vida cultural de Braga, onde foi professor e membro da Comissão de Estética da Câmara Municipal. Zeferino Couto deixou uma marca significativa em várias obras, como a decoração do Teatro Circo, a fonte luminosa da Casa Rego e vários bustos e monumentos em homenagem a figuras importantes. Faleceu em outubro de 1982, em Fão, Esposende, deixando um legado importante para a arte portuguesa."
+    },
+    "knownFor": {
+      "type": "Property",
+      "value": [
+        "Salão Nobre e máscara \"Comédia\" (1915)",
+        "fonte luminosa e monumental da Casa Rego (1920)",
+        "busto de António Peixoto (1953)",
+        "monumento aos Irmãos Roby (1955)",
+        "busto de Manuel Vieira Gomes (1956)",
+        "esculturas da capela privativa do Seminário Conciliar (1942)",
+        "monumento aos Mortos da Grande Guerra (1929)",
+        "escultura de Nossa Senhora da Conceição (1956)"
+      ]
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:17"
+      ],
+      "objectType": "Sculpture"
+    },
+    "jobTitle": {
+      "type": "Property",
+      "value": [
+        "Escultor",
+        "Professor"
+      ]
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:31",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "ZULMIRO DE CARVALHO"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:3"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:32",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "DOMINGOS TAVARES"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:3"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:33",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "JOSÉ PACHECO"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:4"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:34",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "RAMALHETE BARBOSA"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:4"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:35",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "LUÍS MACHADO"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:5"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:36",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "JOHN FISHER"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:13"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:37",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "RAÚL MARIA XAVIER"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:23"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:38",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "ALBERTO VIEIRA"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:36",
+        "urn:ngsi-ld:Sculpture:37"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:39",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "PAULO NEVES"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:39"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Person:40",
+    "type": "Person",
+    "name": {
+      "type": "Property",
+      "value": "LUIZ CUNHA"
+    },
+    "publishingPrinciples": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Sculpture:45"
+      ],
+      "objectType": "Sculpture"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextEstatuarias.jsonld"
+    ]
+  }
+]

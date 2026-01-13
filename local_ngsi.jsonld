@@ -1,0 +1,1193 @@
+[
+  {
+    "id": "urn:ngsi-ld:Place:1",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Forum Braga"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:1",
+        "urn:ngsi-ld:Event:32",
+        "urn:ngsi-ld:Event:49",
+        "urn:ngsi-ld:Event:85",
+        "urn:ngsi-ld:Event:101",
+        "urn:ngsi-ld:Event:106",
+        "urn:ngsi-ld:Event:121",
+        "urn:ngsi-ld:Event:129",
+        "urn:ngsi-ld:Event:174",
+        "urn:ngsi-ld:Event:177",
+        "urn:ngsi-ld:Event:180",
+        "urn:ngsi-ld:Event:181",
+        "urn:ngsi-ld:Event:183",
+        "urn:ngsi-ld:Event:184",
+        "urn:ngsi-ld:Event:200"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:2",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Avenida Central"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:2",
+        "urn:ngsi-ld:Event:3",
+        "urn:ngsi-ld:Event:4",
+        "urn:ngsi-ld:Event:8",
+        "urn:ngsi-ld:Event:10",
+        "urn:ngsi-ld:Event:11",
+        "urn:ngsi-ld:Event:14",
+        "urn:ngsi-ld:Event:15",
+        "urn:ngsi-ld:Event:17",
+        "urn:ngsi-ld:Event:18",
+        "urn:ngsi-ld:Event:22",
+        "urn:ngsi-ld:Event:23",
+        "urn:ngsi-ld:Event:25",
+        "urn:ngsi-ld:Event:29",
+        "urn:ngsi-ld:Event:30",
+        "urn:ngsi-ld:Event:33",
+        "urn:ngsi-ld:Event:35",
+        "urn:ngsi-ld:Event:42",
+        "urn:ngsi-ld:Event:47",
+        "urn:ngsi-ld:Event:50",
+        "urn:ngsi-ld:Event:51",
+        "urn:ngsi-ld:Event:54",
+        "urn:ngsi-ld:Event:56",
+        "urn:ngsi-ld:Event:57",
+        "urn:ngsi-ld:Event:60",
+        "urn:ngsi-ld:Event:61",
+        "urn:ngsi-ld:Event:65",
+        "urn:ngsi-ld:Event:66",
+        "urn:ngsi-ld:Event:67",
+        "urn:ngsi-ld:Event:71",
+        "urn:ngsi-ld:Event:73",
+        "urn:ngsi-ld:Event:77",
+        "urn:ngsi-ld:Event:81",
+        "urn:ngsi-ld:Event:83",
+        "urn:ngsi-ld:Event:84",
+        "urn:ngsi-ld:Event:90",
+        "urn:ngsi-ld:Event:92",
+        "urn:ngsi-ld:Event:96",
+        "urn:ngsi-ld:Event:99",
+        "urn:ngsi-ld:Event:104",
+        "urn:ngsi-ld:Event:105",
+        "urn:ngsi-ld:Event:108",
+        "urn:ngsi-ld:Event:110",
+        "urn:ngsi-ld:Event:114",
+        "urn:ngsi-ld:Event:119",
+        "urn:ngsi-ld:Event:125",
+        "urn:ngsi-ld:Event:134",
+        "urn:ngsi-ld:Event:139",
+        "urn:ngsi-ld:Event:141",
+        "urn:ngsi-ld:Event:146",
+        "urn:ngsi-ld:Event:150",
+        "urn:ngsi-ld:Event:153",
+        "urn:ngsi-ld:Event:154",
+        "urn:ngsi-ld:Event:155",
+        "urn:ngsi-ld:Event:158",
+        "urn:ngsi-ld:Event:162",
+        "urn:ngsi-ld:Event:167",
+        "urn:ngsi-ld:Event:168",
+        "urn:ngsi-ld:Event:169",
+        "urn:ngsi-ld:Event:170"
+      ],
+      "objectType": "Event"
+    },
+    "containsPlace": {
+      "type": "Property",
+      "value": "Palco Braga é Natal"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:3",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Ruas do Centro Histórico"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:5",
+        "urn:ngsi-ld:Event:43",
+        "urn:ngsi-ld:Event:46",
+        "urn:ngsi-ld:Event:55",
+        "urn:ngsi-ld:Event:95",
+        "urn:ngsi-ld:Event:103",
+        "urn:ngsi-ld:Event:107",
+        "urn:ngsi-ld:Event:111",
+        "urn:ngsi-ld:Event:115",
+        "urn:ngsi-ld:Event:128",
+        "urn:ngsi-ld:Event:138",
+        "urn:ngsi-ld:Event:143",
+        "urn:ngsi-ld:Event:144",
+        "urn:ngsi-ld:Event:152",
+        "urn:ngsi-ld:Event:157",
+        "urn:ngsi-ld:Event:160"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:4",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Avenida Central"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:6",
+        "urn:ngsi-ld:Event:7",
+        "urn:ngsi-ld:Event:38",
+        "urn:ngsi-ld:Event:171"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:5",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Avenida Central"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:9",
+        "urn:ngsi-ld:Event:12",
+        "urn:ngsi-ld:Event:13",
+        "urn:ngsi-ld:Event:16",
+        "urn:ngsi-ld:Event:19",
+        "urn:ngsi-ld:Event:20",
+        "urn:ngsi-ld:Event:24",
+        "urn:ngsi-ld:Event:28",
+        "urn:ngsi-ld:Event:31",
+        "urn:ngsi-ld:Event:48",
+        "urn:ngsi-ld:Event:59",
+        "urn:ngsi-ld:Event:63",
+        "urn:ngsi-ld:Event:70",
+        "urn:ngsi-ld:Event:75",
+        "urn:ngsi-ld:Event:80",
+        "urn:ngsi-ld:Event:89",
+        "urn:ngsi-ld:Event:109",
+        "urn:ngsi-ld:Event:112",
+        "urn:ngsi-ld:Event:116",
+        "urn:ngsi-ld:Event:122",
+        "urn:ngsi-ld:Event:131",
+        "urn:ngsi-ld:Event:147",
+        "urn:ngsi-ld:Event:149",
+        "urn:ngsi-ld:Event:159",
+        "urn:ngsi-ld:Event:166",
+        "urn:ngsi-ld:Event:193",
+        "urn:ngsi-ld:Event:194",
+        "urn:ngsi-ld:Event:195",
+        "urn:ngsi-ld:Event:196",
+        "urn:ngsi-ld:Event:197",
+        "urn:ngsi-ld:Event:198",
+        "urn:ngsi-ld:Event:199",
+        "urn:ngsi-ld:Event:207",
+        "urn:ngsi-ld:Event:208",
+        "urn:ngsi-ld:Event:209"
+      ],
+      "objectType": "Event"
+    },
+    "containsPlace": {
+      "type": "Property",
+      "value": "Laboratório de Natal"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:6",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Biblioteca Lúcio Craveiro da Silva"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:21",
+        "urn:ngsi-ld:Event:69",
+        "urn:ngsi-ld:Event:76",
+        "urn:ngsi-ld:Event:113",
+        "urn:ngsi-ld:Event:117",
+        "urn:ngsi-ld:Event:124",
+        "urn:ngsi-ld:Event:133",
+        "urn:ngsi-ld:Event:136",
+        "urn:ngsi-ld:Event:145",
+        "urn:ngsi-ld:Event:172"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:7",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Theatro Circo"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:26",
+        "urn:ngsi-ld:Event:100",
+        "urn:ngsi-ld:Event:191",
+        "urn:ngsi-ld:Event:192"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:8",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Auditório Biblioteca Lúcio Craveiro da Silva"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:27"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:9",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Mercado Municipal"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:34",
+        "urn:ngsi-ld:Event:37",
+        "urn:ngsi-ld:Event:52"
+      ],
+      "objectType": "Event"
+    },
+    "containsPlace": {
+      "type": "Property",
+      "value": "Mesa na Praça"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:10",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Igreja do Hospital de S. Marcos"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:36"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:11",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Quinta Pedagógica de Braga"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:39",
+        "urn:ngsi-ld:Event:58",
+        "urn:ngsi-ld:Event:62",
+        "urn:ngsi-ld:Event:68",
+        "urn:ngsi-ld:Event:74",
+        "urn:ngsi-ld:Event:79"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:12",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Mercado Municipal"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:40",
+        "urn:ngsi-ld:Event:41",
+        "urn:ngsi-ld:Event:44",
+        "urn:ngsi-ld:Event:45",
+        "urn:ngsi-ld:Event:64",
+        "urn:ngsi-ld:Event:87",
+        "urn:ngsi-ld:Event:88",
+        "urn:ngsi-ld:Event:91",
+        "urn:ngsi-ld:Event:142"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:13",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Largo Barão de S. Martinho"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:53",
+        "urn:ngsi-ld:Event:102",
+        "urn:ngsi-ld:Event:148",
+        "urn:ngsi-ld:Event:151",
+        "urn:ngsi-ld:Event:156",
+        "urn:ngsi-ld:Event:161",
+        "urn:ngsi-ld:Event:163",
+        "urn:ngsi-ld:Event:176",
+        "urn:ngsi-ld:Event:178",
+        "urn:ngsi-ld:Event:179"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:14",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Teatro da Escola Secundária Sá de Miranda"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:72",
+        "urn:ngsi-ld:Event:78",
+        "urn:ngsi-ld:Event:82"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:15",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Sacristia-mor da Sé de Braga"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:86"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:16",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Praça Municipal"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:93",
+        "urn:ngsi-ld:Event:94"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:17",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Salão Medieval da Reitoria da Universidade do Minho"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:97",
+        "urn:ngsi-ld:Event:140",
+        "urn:ngsi-ld:Event:173",
+        "urn:ngsi-ld:Event:175",
+        "urn:ngsi-ld:Event:182"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:18",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Capela da Imaculada"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:98"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:19",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Parque S. João da Ponte"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:118",
+        "urn:ngsi-ld:Event:120",
+        "urn:ngsi-ld:Event:123",
+        "urn:ngsi-ld:Event:127",
+        "urn:ngsi-ld:Event:132",
+        "urn:ngsi-ld:Event:135"
+      ],
+      "objectType": "Event"
+    },
+    "containsPlace": {
+      "type": "Property",
+      "value": "Ludoteca da Estufa"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:20",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Palácio do Raio"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:126",
+        "urn:ngsi-ld:Event:137"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:21",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Igreja do Carmo"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:130"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:22",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Praça da República"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:164"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:23",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Avenida Central"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:165",
+        "urn:ngsi-ld:Event:211"
+      ],
+      "objectType": "Event"
+    },
+    "containsPlace": {
+      "type": "Property",
+      "value": "Mercado de Natal"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:24",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "GNERATION"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:185",
+        "urn:ngsi-ld:Event:186",
+        "urn:ngsi-ld:Event:187",
+        "urn:ngsi-ld:Event:188"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:25",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Museu dos Biscainhos"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:189",
+        "urn:ngsi-ld:Event:190"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:26",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Museu Pio XII"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:201",
+        "urn:ngsi-ld:Event:202"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:27",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Posto de Turismo"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:203",
+        "urn:ngsi-ld:Event:204"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:28",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Zet Gallery"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:206"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:29",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Largo do Pópulo"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:210"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:30",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "SANTA CASA DA MISERICÓRDIA DE BRAGA – ERPI N.ª Sr.ª da Misericórdia"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:212"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:31",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "CENTRO CULTURAL E SOCIAL DE SANTO ADRIÃO"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:213"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:32",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "CENTRO SOCIAL DA PARÓQUIA DE NOGUEIRA"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:214"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:33",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "SANTA CASA DA MISERICÓRDIA DE BRAGA – ERPI NEVARTE GULBENKIAN"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:215"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:34",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "CENTRO COMUNITÁRIO DE S. MARTINHO DE DUME"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:216"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:35",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "CENTRO SOCIAL PADRE DAVID DE OLIVEIRA MARTINS"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:217"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:36",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "ASSOCIAÇÃO DE ASSISTÊNCIA S. VICENTE DE PAULO"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:218"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:37",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "LAR D. PEDRO V"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:219"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:38",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "ASSOCIAÇÃO DE SOLIDARIEDADE SOCIAL DE S. TIAGO DE FRAIÃO"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:220"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:39",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "ASSOCIAÇÃO DE PAIS E AMIGOS DA FREGUESIA DE CUNHA"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:221"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:40",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "SANTA CASA DA MISERICÓRDIA DE BRAGA – ERPI D. DIOGO DE SOUSA"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:222"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:41",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "LAR CONDE DE AGROLONGO"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:223"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:42",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "ASSOCIAÇÃO DE REFORMADOS, PENSIONISTAS E IDOSOS DO VALE D’ESTE"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:224"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:43",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "ANIMA UNA – ASSOCIAÇÃO DE APOIO SOCIAL"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:225"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:44",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "ASILO DE S. JOSÉ"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:226"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:45",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Priscos"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:227"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:46",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Mosteiro de S. Martinho de Tibães"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:228"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:47",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Igreja de Este S. Mamede"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:229",
+        "urn:ngsi-ld:Event:230",
+        "urn:ngsi-ld:Event:231",
+        "urn:ngsi-ld:Event:232",
+        "urn:ngsi-ld:Event:233",
+        "urn:ngsi-ld:Event:234"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:48",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Igreja de Este S. Pedro"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:235",
+        "urn:ngsi-ld:Event:236",
+        "urn:ngsi-ld:Event:237",
+        "urn:ngsi-ld:Event:238",
+        "urn:ngsi-ld:Event:239",
+        "urn:ngsi-ld:Event:240",
+        "urn:ngsi-ld:Event:241",
+        "urn:ngsi-ld:Event:242",
+        "urn:ngsi-ld:Event:243"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:49",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Moinho Este S. Pedro"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:244"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:50",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Adro da Igreja Paroquial de Santa Lucrécia de Algeriz"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:245",
+        "urn:ngsi-ld:Event:246",
+        "urn:ngsi-ld:Event:247"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  },
+  {
+    "id": "urn:ngsi-ld:Place:51",
+    "type": "Place",
+    "address": {
+      "type": "Property",
+      "value": "Sequeira"
+    },
+    "event": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Event:248",
+        "urn:ngsi-ld:Event:249",
+        "urn:ngsi-ld:Event:250",
+        "urn:ngsi-ld:Event:251",
+        "urn:ngsi-ld:Event:252",
+        "urn:ngsi-ld:Event:253",
+        "urn:ngsi-ld:Event:254"
+      ],
+      "objectType": "Event"
+    },
+    "@context": [
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+      "https://raw.githubusercontent.com/anapereira147/ContextDataModels/main/ContextBragaNatal.jsonld"
+    ]
+  }
+]
